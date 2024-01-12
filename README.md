@@ -1,2 +1,2 @@
-# Camel-C-up
+# Camel (C)up
 Cool Description
